@@ -1,21 +1,15 @@
 <h1 align="center">Hey 👋I'm Merzoug Manal</h1>
-<h2 align="center">Software Engineer | MERN & Next.js Enthusiast</h2>
-
-###
+<p align="center" style="font-size: 2em; font-weight: bold; margin-top: 10px;">Software Engineer | MERN & Next.js Enthusiast</p>
 
 <h2 align="left">👩‍💻 About me</h2>
 
-###
-
-<p align="left">✨ Strong problem-solving skills | Detail-oriented | Passionate about continuous learning.
-  <br>💡I’m looking to collaborate on <b>Software Engineering</b>b> and <b>Web Development projects.</b> <br>
-  📚 Currently, I’m learning more about <b>DevOps</b> to expand my skills.</p>
-
-###
+  <li>✨ Strong problem-solving skills | Detail-oriented | Passionate about continuous learning.</li>
+  <li>🚀 <b>Passionate about continuous learning</b></li>
+  <li>💡 Looking to collaborate on <b>Software Engineering</b> and <b>Web Development</b> projects</li>
+  <li>📚 Currently learning <b>DevOps</b> to expand my technical skills</li>
+</ul>
 
 <h2 align="left">🛠️ Technologies & Tools</h2>
-
-###
 
 <h3 align="left">🎨 Frontend</h3>
 <br>
@@ -75,7 +69,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="vercel logo" />
 </div>
   
-###
 <br>
 <h2 align="left">🔥 My Stats :</h2>
 <div align="center">
@@ -88,4 +81,17 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Merzoug-Manal&show_icons=true&hide_border=true&bg_color=1a1b27&title_color=C678DD&text_color=ABB2BF&icon_color=C678DD&border_radius=10" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merzoug-Manal&layout=compact&hide_border=true&bg_color=1a1b27&title_color=C678DD&text_color=ABB2BF&border_radius=10" height="180" alt="Top Languages" />
+</div>
+<h2 align="left">📫 Connect with Me</h2>
+
+<div align="left">
+  <a href="https://linkedin.com/in/manal-merzoug-aba632287/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:manelmimi1108@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://merzoug-manal.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
