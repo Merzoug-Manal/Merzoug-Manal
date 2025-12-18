@@ -7,6 +7,7 @@
   <li>🚀 <b>Passionate about continuous learning</b></li>
   <li>💡 Looking to collaborate on <b>Software Engineering</b> and <b>Web Development</b> projects</li>
   <li>📚 Currently learning <b>DevOps</b> to expand my technical skills</li>
+   <li>📫 Reach me at: <a href="mailto:merzougmanal1108@gmail.com">merzougmanal1108@gmail.com</a></li>
 </ul>
 
 <h2 align="left">🛠️ Technologies & Tools</h2>
