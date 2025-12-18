@@ -1,14 +1,16 @@
 <h1 align="center">Hey 👋I'm Merzoug Manal</h1>
 <p align="center" style="font-size: 2em; font-weight: bold; margin-top: 10px;">Software Engineer | MERN & Next.js Enthusiast</p>
 
-<h2 align="left">👩‍💻 About me</h2>
-
-  <li>✨ Strong problem-solving skills | Detail-oriented | Passionate about continuous learning.</li>
-  <li>🚀 <b>Passionate about continuous learning</b></li>
-  <li>💡 Looking to collaborate on <b>Software Engineering</b> and <b>Web Development</b> projects</li>
-  <li>📚 Currently learning <b>DevOps</b> to expand my technical skills</li>
-   <li>📫 Reach me at: <a href="mailto:merzougmanal1108@gmail.com">merzougmanal1108@gmail.com</a></li>
-</ul>
+<h2 align="left">👩‍💻 About Me</h2>
+<div style="margin-left: 20px;">
+  <ul>
+    <li>✨ Strong problem-solving skills | Detail-oriented | Passionate about continuous learning</li>
+    <li>🚀 Always eager to learn new technologies and improve my skills</li>
+    <li>💡 Looking to collaborate on <b>Software Engineering</b> and <b>Web Development</b> projects</li>
+    <li>📚 Currently learning <b>DevOps</b> to expand my technical skills</li>
+    <li>📫 Reach me at: <a href="mailto:merzougmanal1108@gmail.com">merzougmanal1108@gmail.com</a></li>
+  </ul>
+</div>
 
 <h2 align="left">🛠️ Technologies & Tools</h2>
 
